@@ -324,3 +324,39 @@ translations:
   BGM_VOLUME: 배경 음악 볼륨
   DEF_BGM_PATH: 기본 테마 음악
   DEF_BGM_PATH_HINT: 내부 테마의 음악 스트리밍 경로를 설정합니다.
+  HDD_HINT:
+  - untranslated
+  - original: Only one HDD allowed, enabling locks APA or GPT.
+  CHEAT_SELECTION:
+  - untranslated
+  - original: Cheat Selection 
+  FAV:
+  - untranslated
+  - original: Favourites
+  FAVMODE:
+  - untranslated
+  - original: Favourites Start Mode 
+  FAV_HINT:
+  - untranslated
+  - original: Favourite
+  FAV_MSG:
+  - untranslated
+  - original: %s not allowed through Favourites Menu.
+  CORE_LOADER:
+  - untranslated
+  - original: Loader Core
+  BDM_DEBUG:
+  - untranslated
+  - original: BD Debug Log
+  MODE7:
+  - untranslated
+  - original: Mode 7
+  HINT_MODE7:
+  - untranslated
+  - original: Patch IOP Buffer Overrun
+  DISABLE_ALL:
+  - untranslated
+  - original: Disable All
+  ARCHIVEDART:
+  - untranslated
+  - original: Archived Art

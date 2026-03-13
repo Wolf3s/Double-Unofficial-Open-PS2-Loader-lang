@@ -480,3 +480,39 @@ translations:
   DEF_BGM_PATH_HINT:
   - untranslated
   - original: Set path to stream music for internal theme.
+  HDD_HINT:
+  - untranslated
+  - original: Only one HDD allowed, enabling locks APA or GPT.
+  CHEAT_SELECTION:
+  - untranslated
+  - original: Cheat Selection 
+  FAV:
+  - untranslated
+  - original: Favourites
+  FAVMODE:
+  - untranslated
+  - original: Favourites Start Mode 
+  FAV_HINT:
+  - untranslated
+  - original: Favourite
+  FAV_MSG:
+  - untranslated
+  - original: %s not allowed through Favourites Menu.
+  CORE_LOADER:
+  - untranslated
+  - original: Loader Core
+  BDM_DEBUG:
+  - untranslated
+  - original: BD Debug Log
+  MODE7:
+  - untranslated
+  - original: Mode 7
+  HINT_MODE7:
+  - untranslated
+  - original: Patch IOP Buffer Overrun
+  DISABLE_ALL:
+  - untranslated
+  - original: Disable All
+  ARCHIVEDART:
+  - untranslated
+  - original: Archived Art
